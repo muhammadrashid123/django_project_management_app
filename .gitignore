@@ -1,0 +1,17 @@
+__pycache__/
+config.json
+.env-dev
+auth_service/.env
+*.pyc
+populate_vectorstore/*
+bitbucket-pipelines.yml
+*.ipynb
+.pytest_cache/
+.pytype
+.env
+credentials.json
+docker-compose.yaml
+.helm/*
+.idea/*
+.venv
+db.sqlite3
